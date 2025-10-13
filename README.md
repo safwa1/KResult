@@ -1,6 +1,4 @@
-# KResult: Expressive Result and Option Types for Kotlin 
-
----
+# KResult: Expressive Result and Option Types for Kotlin
 
 **KResult** is a lightweight, zero-dependency Kotlin library that brings the power and elegance of Rust's `Result<T, E>` and `Option<T>` types to your Kotlin projects. It provides a robust and intuitive way to handle success, failure, and the absence of values without relying on exceptions or nullable types.
 
